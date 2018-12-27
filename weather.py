@@ -63,7 +63,7 @@ def weather_info(**nalssi):
 
 if __name__ == '__main__' :
     
-    params = {'area': '서초동'}
+    params = {'area': '강남역'}
     msg = weather_info(**params)
     
     # msg = weather_info(area = '서초동')
