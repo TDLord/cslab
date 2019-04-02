@@ -1,0 +1,53 @@
+[33mcommit 34d6804339df5c2061485d1e9addc9bdc86d792e[m
+Author: 이용주 <dldydwn946@skuniv.ac.kr>
+Date:   Thu Dec 27 02:59:03 2018 +0000
+
+    test
+
+[33mcommit 10d282203b6c0c5f6aed819fe4799b5851e58379[m
+Author: jmpark1115 <jmpark1115@gmail.com>
+Date:   Thu Dec 20 21:32:53 2018 +0900
+
+    config file for Telegram Service
+
+[33mcommit f9dcf33a3fdadf8d90f229a85a7761cc20921934[m
+Author: jmpark1115 <jmpark1115@gmail.com>
+Date:   Thu Dec 20 21:28:29 2018 +0900
+
+    별도의 bot.send_message 삭제
+
+[33mcommit 7fa62bbe172f639b5f3f6e7bfcddf5ced90945f6[m
+Author: jmpark1115 <jmpark1115@gmail.com>
+Date:   Mon Dec 10 23:42:43 2018 +0900
+
+    webhook path를 '/webhook' 으로 변경
+
+[33mcommit 8740f8b5b43fdfbaf5a164f74dc71020573ae9a9[m
+Author: jmpark1115 <jmpark1115@gmail.com>
+Date:   Mon Dec 10 23:40:17 2018 +0900
+
+    텔레그램 피자주문
+
+[33mcommit 84fd53c92227e40bed34e6ae5097de8cb9651ac4[m
+Author: jmpark1115 <jmpark1115@gmail.com>
+Date:   Mon Dec 10 23:39:29 2018 +0900
+
+    모두 확인을 위해 all -> null 로 변경
+
+[33mcommit a275eb9728e6fe4ab4da9e79a7f0dacc3b68e479[m
+Author: jmpark1115 <jmpark1115@gmail.com>
+Date:   Mon Dec 10 11:49:49 2018 +0900
+
+    Set theme jekyll-theme-cayman
+
+[33mcommit f7da069174ce3808216d4b2732802c554c28f253[m
+Author: jmpark1115 <jmpark1115@gmail.com>
+Date:   Fri Nov 30 22:29:44 2018 +0900
+
+    wether, coin 반영
+
+[33mcommit 7b6c643589fcfbce5acac5f5a3251865810d584b[m
+Author: jmpark1115 <jmpark1115@gmail.com>
+Date:   Wed Nov 28 00:38:08 2018 +0900
+
+    first commit
